@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeAgain", "HomeAgain\HomeAgain.csproj", "{1756379D-5B08-4078-8BBF-7B6DE8449682}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "HomeAgainSetup", "HomeAgainSetup\HomeAgainSetup.vdproj", "{A4687A1D-C3EE-42FA-8CDB-6F63E769847D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1756379D-5B08-4078-8BBF-7B6DE8449682}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1756379D-5B08-4078-8BBF-7B6DE8449682}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1756379D-5B08-4078-8BBF-7B6DE8449682}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1756379D-5B08-4078-8BBF-7B6DE8449682}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4687A1D-C3EE-42FA-8CDB-6F63E769847D}.Debug|Any CPU.ActiveCfg = Debug
+		{A4687A1D-C3EE-42FA-8CDB-6F63E769847D}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

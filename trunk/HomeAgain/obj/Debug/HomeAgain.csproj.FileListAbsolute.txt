@@ -10,3 +10,9 @@ D:\Z000DG8C\My Documents\Visual Studio 2008\Projects\HomeAgain\HomeAgain\obj\Deb
 D:\Repositories\homeagain\HomeAgain\bin\Debug\HomeAgain.exe.config
 D:\Repositories\homeagain\HomeAgain\obj\Debug\HomeAgain.exe
 D:\Repositories\homeagain\HomeAgain\obj\Debug\HomeAgain.pdb
+D:\Repositories\homeagain\HomeAgain\bin\Debug\HomeAgain.exe
+D:\Repositories\homeagain\HomeAgain\bin\Debug\HomeAgain.pdb
+D:\Repositories\homeagain\HomeAgain\obj\Debug\ResolveAssemblyReference.cache
+D:\Repositories\homeagain\HomeAgain\obj\Debug\HomeAgain.MainForm.resources
+D:\Repositories\homeagain\HomeAgain\obj\Debug\HomeAgain.Properties.Resources.resources
+D:\Repositories\homeagain\HomeAgain\obj\Debug\HomeAgain.csproj.GenerateResource.Cache
